@@ -25,6 +25,6 @@
    	</Div> 
    </Div>
 	
-  <marquee><div class="text-success m-5"><h5>Designed and Developed by Vivek Pawar</h5></div></marquee> 
+  <marquee><div class="text-success m-5"><h5>Designed and Developed by Vivek Pawar.</h5></div></marquee> 
   </body>
 </html>
